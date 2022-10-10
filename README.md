@@ -1,8 +1,11 @@
-# Sample Hardhat Project
+# Transparent Proxy Pattern - Solidity Example
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Simple example for transparent proxy pattern in solidity.
 
-Try running some of the following tasks:
+Find my notes on Upgradable Smart Contracts here: https://lokesh-kumar.notion.site/1-Upgradable-Smart-Contracts-691ffea1961c4884a3efbf9673be32bc
+
+
+Hardhat commands:
 
 ```shell
 npx hardhat help
